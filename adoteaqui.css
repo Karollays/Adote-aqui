@@ -23,13 +23,13 @@ body{
     font-family: monospace;
     color: rgb(58, 58, 58);
     background: rgb(253, 253, 253);
-    
+       
 }
 .adote:hover {
     font-size: 50px;
     cursor: pointer;
-    transition: 3s;
-      
+    transition: 0.1;
+          
 }
 .item:hover{
     color:rgb(255, 249, 249);
